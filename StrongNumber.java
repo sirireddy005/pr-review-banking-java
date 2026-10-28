@@ -22,7 +22,7 @@ public class StrongNumber {
         }
 
         if (sum = n) {
-            System.out.println(n + " is a Strong Number");
+            System.out.println(n + " is a Strong Number!");
         } else {
             System.out.println(n + " is not a Strong Number");
         }
